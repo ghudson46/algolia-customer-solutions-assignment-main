@@ -18,6 +18,8 @@ Spencer and Williams are having a sale on Cameras. They would like you create an
 Our customer Spencer and Williams want to use Personalisation in order to to do this they need to implement **_Algolia Insights_** . They have asked for us to create a demo of the events included in their provided codebase.  
   
 It is imperative that we send clicks and conversion on the result page hit results, any other events included will be a bonus.  
+
+demo video: https://www.loom.com/share/0b07f81d980e4af1a62a87b7ee84109e?sid=283e985f-5d49-4577-b3c2-56e2b4b372ff 
   
 ### Technical Assignment - Part Three (0.5 hrs)
 Spencer and Williams want some guidance on their optimal relevance set up. In the Algolia index that you have uploaded the data and events to, configure the relevance so that when users are searching they are seeing the results that make most sense. 
